@@ -4,6 +4,8 @@
 int main()
 {
     //vatiables for entire system
+    //check the system for banking services.
+    //The files (text files) will be manage the site data.
     int choice, telno, deposit, newtelno, g_tp, telno1, nic, newnic, selection;
     char name[50], username[50], abc[50], email[50], new_pass[50];
     float d_amount, newdeposit, newamount, withdraw, updated_amount;
